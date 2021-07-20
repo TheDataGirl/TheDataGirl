@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/lmntrixisid/count.svg" alt="vistor count" height="50" /></td>
+    <td><img src="https://profile-counter.glitch.me/TheDataGirl/count.svg" alt="vistor count" height="50" /></td>
   </tr>
 </table>
 
