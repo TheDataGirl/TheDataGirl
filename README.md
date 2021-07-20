@@ -2,7 +2,7 @@
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TheDataGirl&hide=contribs,prs&show_icons=true&theme=prussian)](https://github.com/TheDataGirl/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDataGirl)](https://github.com/TheDataGirl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDataGirl&theme=prussian)](https://github.com/TheDataGirl/github-readme-stats)
 
 
 
