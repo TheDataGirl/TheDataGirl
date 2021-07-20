@@ -1,13 +1,5 @@
 ### Welcome to my Github profile 👋
 
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/TheDataGirl/count.svg" alt="vistor count" height="50" /></td>
-  </tr>
-</table>
-
-
 ### I'm a Student, Analyst, and a nerd(as people call me)!
 - 🌱 I’m currently learning Community Detection
 - 💻 I've decent experience in Data Analytics
@@ -35,6 +27,13 @@
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <a href="www.linkedin.com/in/deboleena-bhattacharyya-157149143">Deboleena Bhattacharyya</a> 
 
 <img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /><a href="https://www.facebook.com/deboleena.bhattacharyya.10/">Deboleena Bhattacharyya</a> 
+
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/TheDataGirl/count.svg" alt="vistor count" height="50" /></td>
+  </tr>
+</table>
 
 
 
