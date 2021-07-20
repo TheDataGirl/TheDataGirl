@@ -24,7 +24,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br/>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheDataGirl&repo=https://github.com/TheDataGirl/Relationship-between-Alcohol-Consumption-and-Educational-Attainment&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheDataGirl&repo=Relationship-between-Alcohol-Consumption-and-Educational-Attainment&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
