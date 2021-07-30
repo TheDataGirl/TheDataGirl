@@ -28,14 +28,3 @@
 
 <img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /><a href="https://www.facebook.com/deboleena.bhattacharyya.10/">Deboleena Bhattacharyya</a> 
 
-<table>
-  <tr>
-    <td>Visitors</td>
-    <td><img src="https://profile-counter.glitch.me/TheDataGirl/count.svg" alt="vistor count" height="50" /></td>
-  </tr>
-</table>
-
-
-
-
-
