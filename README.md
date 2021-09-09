@@ -2,7 +2,7 @@
 
 ### I'm a Student, Analyst, and a nerd(as people call me)!
 - 🌱 I’m currently learning Community Detection
-- 💻 I've decent experience in Data Analytics
+- 💻 I have decent experience in Data Analytics
 - ⚡ Speciality: I can fit in any shoe!
 
 ### Languages and Tools:
